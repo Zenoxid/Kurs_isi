@@ -224,6 +224,8 @@ body.nav-active { overflow: hidden; }
 
 .headline-1 { font-size: var(--fontSize-headline-1); }
 
+.imgs {width: 100px !important; height: 100px !important; object-fit: cover;}
+
 .headline-2 {
   font-size: var(--fontSize-headline-2);
   line-height: var(--lineHeight-6);
