@@ -558,7 +558,7 @@ function googleTranslateElementInit() {
 
                   <div class="title-wrapper">
                     <h3 class="title-3">
-                      <a href="#" class="card-title">Tavada narlı quzu qovurma</a>
+                      <a href="#" class="card-title">Tavada Narlı Quzu Qovurma</a>
                     </h3>
 
                     <span class="badge label-1">Seasonal</span>
@@ -583,7 +583,7 @@ function googleTranslateElementInit() {
 
                   <div class="title-wrapper">
                     <h3 class="title-3">
-                      <a href="#" class="card-title">Tavada yarpaq dolması</a>
+                      <a href="#" class="card-title">Tavada Yarpaq Dolması</a>
                     </h3>
 
                     <span class="span title-2">₼10.00</span>
@@ -595,6 +595,7 @@ function googleTranslateElementInit() {
             </li>
 
             <li>
+              
               <div class="menu-card hover:card">
 
                 <figure class="card-banner img-holder" style="--width: 100; --height: 100;">
@@ -606,7 +607,7 @@ function googleTranslateElementInit() {
 
                   <div class="title-wrapper">
                     <h3 class="title-3">
-                      <a href="#" class="card-title">Forel Balığı</a>
+                      <a href="#" class="card-title">Forel balığı</a>
                     </h3>
 
                     <span class="span title-2">₼16.00</span>
@@ -629,7 +630,7 @@ function googleTranslateElementInit() {
 
                   <div class="title-wrapper">
                     <h3 class="title-3">
-                      <a href="#" class="card-title">Toyuq şnitzel</a>
+                      <a href="#" class="card-title">Toyuq Şnitzel</a>
                     </h3>
 
                     <span class="badge label-1">New</span>
@@ -654,7 +655,7 @@ function googleTranslateElementInit() {
 
                   <div class="title-wrapper">
                     <h3 class="title-3">
-                      <a href="#" class="card-title">Tacos</a>
+                      <a href="#" class="card-title">Tako</a>
                     </h3>
 
                     <span class="span title-2">₼16.00</span>
@@ -687,626 +688,23 @@ function googleTranslateElementInit() {
 
               </div>
             </li>
-            <li>
-              <div class="menu-card hover:card">
-
-                <figure class="card-banner img-holder" style="--width: 100; --height: 100;">
-                  <img class="imgs" src="./assets/images/Esas Yemekler/Medalyon Steyk.png"  width="100" height="100" loading="lazy" alt="Opu Fish "
-                    class="img-cover">
-                </figure>
-
-                <div>
-
-                  <div class="title-wrapper">
-                    <h3 class="title-3">
-                      <a href="#" class="card-title">Medalyon steyk</a>
-                    </h3>
-
-                    <span class="span title-2">₼29.00</span>
-                  </div>
-
-                </div>
-
-              </div>
-            </li>
-            <li>
-              <div class="menu-card hover:card">
-
-                <figure class="card-banner img-holder" style="--width: 100; --height: 100;">
-                  <img class="imgs" src="./assets/images/Esas Yemekler/Gurze.png" width="50" height="50" loading="lazy" alt="Opu Fish"
-                    class="img-cover">
-                </figure>
-
-                <div>
-
-                  <div class="title-wrapper">
-                    <h3 class="title-3">
-                      <a href="#" class="card-title">Gürzə</a>
-                    </h3>
-
-                    <span class="span title-2">₼7.00</span>
-                  </div>
-
-                </div>
-
-              </div>
-            </li>
-            <li>
-              <div class="menu-card hover:card">
-
-                <figure class="card-banner img-holder" style="--width: 100; --height: 100;">
-                  <img class="imgs" src="./assets/images/Salatlar/Coban Salati.png" width="50" height="50" loading="lazy" alt="Opu Fish"
-                    class="img-cover">
-                </figure>
-
-                <div>
-
-                  <div class="title-wrapper">
-                    <h3 class="title-3">
-                      <a href="#" class="card-title">Çoban salatı</a>
-                    </h3>
-
-                    <span class="span title-2">₼6.00</span>
-                  </div>
-
-                </div>
-
-              </div>
-            </li>
-            <li>
-              <div class="menu-card hover:card">
-
-                <figure class="card-banner img-holder" style="--width: 100; --height: 100;">
-                  <img class="imgs" src="./assets/images/Salatlar/Yunan Salati.png" width="50" height="50" loading="lazy" alt="Opu Fish"
-                    class="img-cover">
-                </figure>
-
-                <div>
-
-                  <div class="title-wrapper">
-                    <h3 class="title-3">
-                      <a href="#" class="card-title">Yunan salatı</a>
-                    </h3>
-
-                    <span class="span title-2">₼7.00</span>
-                  </div>
-
-                </div>
-
-              </div>
-            </li>
-            <li>
-              <div class="menu-card hover:card">
-
-                <figure class="card-banner img-holder" style="--width: 100; --height: 100;">
-                  <img class="imgs" src="./assets/images/Kabablar/Qarisiq Kabab seti.png" width="50" height="50" loading="lazy" alt="Opu Fish"
-                    class="img-cover">
-                </figure>
-
-                <div>
-
-                  <div class="title-wrapper">
-                    <h3 class="title-3">
-                      <a href="#" class="card-title">Qarışıq kabab seti</a>
-                    </h3>
-
-                    <span class="span title-2">₼30.00</span>
-                  </div>
-
-                </div>
-
-              </div>
-            </li>
-            <li>
-              <div class="menu-card hover:card">
-
-                <figure class="card-banner img-holder" style="--width: 100; --height: 100;">
-                  <img class="imgs" src="./assets/images/Kabablar/Toyuq Kababi.png" width="50" height="50" loading="lazy" alt="Opu Fish"
-                    class="img-cover">
-                </figure>
-
-                <div>
-
-                  <div class="title-wrapper">
-                    <h3 class="title-3">
-                      <a href="#" class="card-title">Toyuq kababı</a>
-                    </h3>
-
-                    <span class="span title-2">₼8.00</span>
-                  </div>
-
-                </div>
-
-              </div>
-            </li>
-            <li>
-              <div class="menu-card hover:card">
-
-                <figure class="card-banner img-holder" style="--width: 100; --height: 100;">
-                  <img class="imgs" src="./assets/images/Kabablar/Quzu Antrikot Kababi.png" width="50" height="50" loading="lazy" alt="Opu Fish"
-                    class="img-cover">
-                </figure>
-
-                <div>
-
-                  <div class="title-wrapper">
-                    <h3 class="title-3">
-                      <a href="#" class="card-title">Quzu Antrikot</a>
-                    </h3>
-
-                    <span class="span title-2">₼12.00</span>
-                  </div>
-
-                </div>
-
-              </div>
-            </li>
-            <li>
-              <div class="menu-card hover:card">
-
-                <figure class="card-banner img-holder" style="--width: 100; --height: 100;">
-                  <img class="imgs" src="./assets/images/Kabablar/Quzu Lule Kababi.png" width="50" height="50" loading="lazy" alt="Opu Fish"
-                    class="img-cover">
-                </figure>
-
-                <div>
-
-                  <div class="title-wrapper">
-                    <h3 class="title-3">
-                      <a href="#" class="card-title">Lülə kabab</a>
-                    </h3>
-
-                    <span class="span title-2">₼12.00</span>
-                  </div>
-
-                </div>
-
-              </div>
-            </li>
-            <li>
-              <div class="menu-card hover:card">
-
-                <figure class="card-banner img-holder" style="--width: 100; --height: 100;">
-                  <img class="imgs" src="./assets/images/Kabablar/Quzu Tike Kababi.png" width="50" height="50" loading="lazy" alt="Opu Fish"
-                    class="img-cover">
-                </figure>
-
-                <div>
-
-                  <div class="title-wrapper">
-                    <h3 class="title-3">
-                      <a href="#" class="card-title">Quzu Tikə Kababı</a>
-                    </h3>
-
-                    <span class="span title-2">₼11.00</span>
-                  </div>
-
-                </div>
-
-              </div>
-            </li>
-            <li>
-              <div class="menu-card hover:card">
-
-                <figure class="card-banner img-holder" style="--width: 100; --height: 100;">
-                  <img class="imgs" src="./assets/images/Sorbalar/Dusbere.png" width="50" height="50" loading="lazy" alt="Opu Fish"
-                    class="img-cover">
-                </figure>
-
-                <div>
-
-                  <div class="title-wrapper">
-                    <h3 class="title-3">
-                      <a href="#" class="card-title">Düşbərə</a>
-                    </h3>
-
-                    <span class="span title-2">₼6.00</span>
-                  </div>
-
-                </div>
-
-              </div>
-            </li>
-            <li>
-              <div class="menu-card hover:card">
-
-                <figure class="card-banner img-holder" style="--width: 100; --height: 100;">
-                  <img class="imgs" src="./assets/images/Sorbalar/Merci sorbasi.png" width="50" height="50" loading="lazy" alt="Opu Fish"
-                    class="img-cover">
-                </figure>
-
-                <div>
-
-                  <div class="title-wrapper">
-                    <h3 class="title-3">
-                      <a href="#" class="card-title">Mərci şorbası</a>
-                    </h3>
-
-                    <span class="span title-2">₼4.00</span>
-                  </div>
-
-                </div>
-
-              </div>
-            </li>
-            <li>
-              <div class="menu-card hover:card">
-
-                <figure class="card-banner img-holder" style="--width: 100; --height: 100;">
-                  <img class="imgs" src="./assets/images/Sorbalar/toyuq sorbasi.png" width="50" height="50" loading="lazy" alt="Opu Fish"
-                    class="img-cover">
-                </figure>
-
-                <div>
-
-                  <div class="title-wrapper">
-                    <h3 class="title-3">
-                      <a href="#" class="card-title">Toyuq şorbası</a>
-                    </h3>
-
-                    <span class="span title-2">₼5.00</span>
-                  </div>
-
-                </div>
-
-              </div>
-            </li>
-            <li>
-              <div class="menu-card hover:card">
-
-                <figure class="card-banner img-holder" style="--width: 100; --height: 100;">
-                  <img class="imgs" src="./assets/images/Seher Yemekleri/Seher yemeyi (1 neferlik).png" width="50" height="50" loading="lazy" alt="Opu Fish"
-                    class="img-cover">
-                </figure>
-
-                <div>
-
-                  <div class="title-wrapper">
-                    <h3 class="title-3">
-                      <a href="#" class="card-title">Səhər yeməyi (1 nəfərlik)</a>
-                    </h3>
-
-                    <span class="span title-2">₼17.00</span>
-                  </div>
-
-                </div>
-
-              </div>
-            </li>
-            <li>
-              <div class="menu-card hover:card">
-
-                <figure class="card-banner img-holder" style="--width: 100; --height: 100;">
-                  <img class="imgs" src="./assets/images/Seher Yemekleri/Seher yemeyi (2 neferlik).png" width="50" height="50" loading="lazy" alt="Opu Fish"
-                    class="img-cover">
-                </figure>
-
-                <div>
-
-                  <div class="title-wrapper">
-                    <h3 class="title-3">
-                      <a href="#" class="card-title">Səhər yeməyi (2 nəfərlik)</a>
-                    </h3>
-
-                    <span class="span title-2">₼30.00</span>
-                  </div>
-
-                </div>
-
-              </div>
-            </li>
-            <li>
-              <div class="menu-card hover:card">
-
-                <figure class="card-banner img-holder" style="--width: 100; --height: 100;">
-                  <img class="imgs" src="./assets/images/Seher Yemekleri/Qaymaq.png" width="50" height="50" loading="lazy" alt="Opu Fish"
-                    class="img-cover">
-                </figure>
-
-                <div>
-
-                  <div class="title-wrapper">
-                    <h3 class="title-3">
-                      <a href="#" class="card-title">Qaymaq</a>
-                    </h3>
-
-                    <span class="span title-2">₼3.50</span>
-                  </div>
-
-                </div>
-
-              </div>
-            </li>
-            <li>
-              <div class="menu-card hover:card">
-
-                <figure class="card-banner img-holder" style="--width: 100; --height: 100;">
-                  <img class="imgs" src="./assets/images/Seher Yemekleri/Pendirli Omlet.png" width="50" height="50" loading="lazy" alt="Opu Fish"
-                    class="img-cover">
-                </figure>
-
-                <div>
-
-                  <div class="title-wrapper">
-                    <h3 class="title-3">
-                      <a href="#" class="card-title">Pendirli Omlet</a>
-                    </h3>
-
-                    <span class="span title-2">₼5.00</span>
-                  </div>
-
-                </div>
-
-              </div>
-            </li>
-            <li>
-              <div class="menu-card hover:card">
-
-                <figure class="card-banner img-holder" style="--width: 100; --height: 100;">
-                  <img class="imgs" src="./assets/images/Soyuq Qelyanaltilar/Ag Pendir.png" width="50" height="50" loading="lazy" alt="Opu Fish"
-                    class="img-cover">
-                </figure>
-
-                <div>
-
-                  <div class="title-wrapper">
-                    <h3 class="title-3">
-                      <a href="#" class="card-title">Ağ Pendir</a>
-                    </h3>
-
-                    <span class="span title-2">₼5.00</span>
-                  </div>
-
-                </div>
-
-              </div>
-            </li>
-           
-            <li>
-              <div class="menu-card hover:card">
-
-                <figure class="card-banner img-holder" style="--width: 100; --height: 100;">
-                  <img class="imgs" src="./assets/images/Desertler/Balli Tort.png" width="50" height="50" loading="lazy" alt="Opu Fish"
-                    class="img-cover">
-                </figure>
-
-                <div>
-
-                  <div class="title-wrapper">
-                    <h3 class="title-3">
-                      <a href="#" class="card-title">Ballı tort</a>
-                    </h3>
-
-                    <span class="span title-2">₼8.50</span>
-                  </div>
-
-                </div>
-
-              </div>
-            </li>
-            <li>
-              <div class="menu-card hover:card">
-
-                <figure class="card-banner img-holder" style="--width: 100; --height: 100;">
-                  <img class="imgs" src="./assets/images/Desertler/Cizkeyk Nyu-York.png" width="50" height="50" loading="lazy" alt="Opu Fish"
-                    class="img-cover">
-                </figure>
-
-                <div>
-
-                  <div class="title-wrapper">
-                    <h3 class="title-3">
-                      <a href="#" class="card-title">Cheesecake</a>
-                    </h3>
-
-                    <span class="span title-2">₼8.50</span>
-                  </div>
-
-                </div>
-
-              </div>
-            </li>
-            <li>
-              <div class="menu-card hover:card">
-
-                <figure class="card-banner img-holder" style="--width: 100; --height: 100;">
-                  <img class="imgs" src="./assets/images/Desertler/Tiramisu.png" width="50" height="50" loading="lazy" alt="Opu Fish"
-                    class="img-cover">
-                </figure>
-
-                <div>
-
-                  <div class="title-wrapper">
-                    <h3 class="title-3">
-                      <a href="#" class="card-title">Tiramisu</a>
-                    </h3>
-
-                    <span class="span title-2">₼8.50</span>
-                  </div>
-
-                </div>
-
-              </div>
-            </li>
-            <li>
-              <div class="menu-card hover:card">
-
-                <figure class="card-banner img-holder" style="--width: 100; --height: 100;">
-                  <img class="imgs" src="./assets/images/Desertler/Kunefe.png" width="50" height="50" loading="lazy" alt="Opu Fish"
-                    class="img-cover">
-                </figure>
-
-                <div>
-
-                  <div class="title-wrapper">
-                    <h3 class="title-3">
-                      <a href="#" class="card-title">Künəfə</a>
-                    </h3>
-
-                    <span class="span title-2">₼8.00</span>
-                  </div>
-
-                </div>
-
-              </div>
-            </li>
-            <li>
-              <div class="menu-card hover:card">
-
-                <figure class="card-banner img-holder" style="--width: 100; --height: 100;">
-                  <img class="imgs" src="./assets/images/Desertler/Dondurma.png" width="50" height="50" loading="lazy" alt="Opu Fish"
-                    class="img-cover">
-                </figure>
-
-                <div>
-
-                  <div class="title-wrapper">
-                    <h3 class="title-3">
-                      <a href="#" class="card-title">Dondurma</a>
-                    </h3>
-
-                    <span class="span title-2">₼5.00</span>
-                  </div>
-
-                </div>
-
-              </div>
-            </li>
-            <li>
-              <div class="menu-card hover:card">
-
-                <figure class="card-banner img-holder" style="--width: 100; --height: 100;">
-                  <img class="imgs" src="./assets/images/Alkoqolsuz/Cola330.png" width="50" height="50" loading="lazy" alt="Opu Fish"
-                    class="img-cover">
-                </figure>
-
-                <div>
-
-                  <div class="title-wrapper">
-                    <h3 class="title-3">
-                      <a href="#" class="card-title">Cola/Fanta/Sprite/Ice Tea(330ml)</a>
-                    </h3>
-
-                    <span class="span title-2">₼4.00</span>
-                  </div>
-
-                </div>
-
-              </div>
-            </li>
-            <li>
-              <div class="menu-card hover:card">
-
-                <figure class="card-banner img-holder" style="--width: 100; --height: 100;">
-                  <img class="imgs" src="./assets/images/Alkoqolsuz/Mojito.png" width="50" height="50" loading="lazy" alt="Opu Fish"
-                    class="img-cover">
-                </figure>
-
-                <div>
-
-                  <div class="title-wrapper">
-                    <h3 class="title-3">
-                      <a href="#" class="card-title">Mojito</a>
-                    </h3>
-
-                    <span class="span title-2">₼10.00</span>
-                  </div>
-
-                </div>
-
-              </div>
-            </li>
-            <li>
-              <div class="menu-card hover:card">
-
-                <figure class="card-banner img-holder" style="--width: 100; --height: 100;">
-                  <img class="imgs" src="./assets/images/Alkoqolsuz/TRkofe.png" width="50" height="50" loading="lazy" alt="Opu Fish"
-                    class="img-cover">
-                </figure>
-
-                <div>
-
-                  <div class="title-wrapper">
-                    <h3 class="title-3">
-                      <a href="#" class="card-title">Türk qəhvəsi</a>
-                    </h3>
-
-                    <span class="span title-2">₼5.00</span>
-                  </div>
-
-                </div>
-
-              </div>
-            </li>
-            <li>
-              <div class="menu-card hover:card">
-
-                <figure class="card-banner img-holder" style="--width: 100; --height: 100;">
-                  <img class="imgs" src="./assets/images/Alkoqolsuz/Latte.png" width="50" height="50" loading="lazy" alt="Opu Fish"
-                    class="img-cover">
-                </figure>
-
-                <div>
-
-                  <div class="title-wrapper">
-                    <h3 class="title-3">
-                      <a href="#" class="card-title">Latte</a>
-                    </h3>
-
-                    <span class="span title-2">₼8.00</span>
-                  </div>
-
-                </div>
-
-              </div>
-            </li>
-            <li>
-              <div class="menu-card hover:card">
-
-                <figure class="card-banner img-holder" style="--width: 100; --height: 100;">
-                  <img class="imgs" src="./assets/images/Alkoqollu/Xirdalan500.png" width="50" height="50" loading="lazy" alt="Opu Fish"
-                    class="img-cover">
-                </figure>
-
-                <div>
-
-                  <div class="title-wrapper">
-                    <h3 class="title-3">
-                      <a href="#" class="card-title">Xırdalan 500ml</a>
-                    </h3>
-
-                    <span class="span title-2">₼6.00</span>
-                  </div>
-                </div>
-
-              </div>
-            </li>
-            <li>
-              <div class="menu-card hover:card">
-
-                <figure class="card-banner img-holder" style="--width: 100; --height: 100;">
-                  <img class="imgs" src="./assets/images/Alkoqollu/Edraft.png" width="50" height="50" loading="lazy" alt="Opu Fish"
-                    class="img-cover">
-                </figure>
-
-                <div>
-
-                  <div class="title-wrapper">
-                    <h3 class="title-3">
-                      <a href="#" class="card-title">Efes Draft 500ml</a>
-                    </h3>
-
-                    <span class="span title-2">₼9.00</span>
-                  </div>
-
-                </div>
-
-              </div>
-            </li>
+            
+       
+          
 
 
           </ul>
+          <p class="menu-text text-center">
+            During winter daily from <span class="span">7:00 pm</span> to <span class="span">9:00 pm</span>
+          </p>
 
+          <a  class="btn " id="createPageButton">
+           
+            <span class="text text-1">View All Menu</span>
+
+            <span class="text text-2" aria-hidden="true">View All Menu</span>
+          </a>
+          <div id="content"></div>
          
 
           <img src="./assets/images/shape-5.png" width="921" height="1036" loading="lazy" alt="shape"
@@ -1316,6 +714,7 @@ function googleTranslateElementInit() {
 
         </div>
       </section>
+
 
 
 
