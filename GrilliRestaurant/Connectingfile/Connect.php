@@ -15,10 +15,15 @@ try {
   $conn = new PDO("mysql:host=$servername;dbname=grillirestaurant", $username, $password);
   // set the PDO error mode to exception
   $conn->setAttribute(PDO::ATTR_ERRMODE, PDO::ERRMODE_EXCEPTION);
-  echo "Connected successfully";
 } catch(PDOException $e) {
   echo "Connection failed: " . $e->getMessage();
 }
+$stmt = $conn->prepare("SELECT ProductsName, Price, ProductPhotos FROM menuproducts ");
+$stmt->execute();
+$result= $stmt->setFetchMode(PDO::FETCH_ASSOC);
+$row=$stmt->fetchAll();
+/*foreach ($row as $rows)
+echo $rows["ProductsName"] . " - " . $rows["Price"] . "<br>";*/
 ?>
 </body>
 </html>

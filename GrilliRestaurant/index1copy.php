@@ -2,6 +2,9 @@
 <html lang="en">
 
 <head>
+  <?php
+  include "ConnectingFile/Connect.php";
+  ?>
   <meta charset="UTF-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -68,7 +71,7 @@ function googleTranslateElementInit() {
         </div>
 
         <span class="span">
-          İcherisheher, Baku, AZ
+          Restaurant St, Delicious City, London 9578, UK
         </span>
       </address>
 
@@ -98,7 +101,7 @@ function googleTranslateElementInit() {
           <ion-icon name="mail-outline" aria-hidden="true"></ion-icon>
         </div>
 
-        <span class="span">GrilliRestaurant@restaurant.az</span>
+        <span class="span">booking@restaurant.com</span>
       </a>
 
       
@@ -179,33 +182,28 @@ function googleTranslateElementInit() {
           <p class="headline-1 navbar-title">Visit Us</p>
 
           <address class="body-4">
-          İcherisheher, Baku<br>
-          AZ 
+            Restaurant St, Delicious City, <br>
+            London 9578, UK
           </address>
 
           <p class="body-4 navbar-text">Open: 9.30 am - 2.30pm</p>
 
-          <a href="mailto:booking@grilli.com" class="body-4 sidebar-link">GrilliRestaurant@restaurant.az</a>
+          <a href="mailto:booking@grilli.com" class="body-4 sidebar-link">booking@grilli.com</a>
 
           <div class="separator"></div>
 
           <p class="contact-label">Booking Request</p>
 
           <a href="tel:+88123123456" class="body-1 contact-number hover-underline">
-          +012 812 12 12
+            +88-123-123456
           </a>
-          
         </div>
 
       </nav>
-      <!-- <a href="#" class="btn btn-secondary">
-        <span class="text text-1">Find A Table</span>
-
-        <span class="text text-2" aria-hidden="true">Find A Table</span>
-      </a> -->
 
       <a href="#" class="table">
-      <span class="text text-1" id="google_translate_element"></span>
+        <span class="text text-1" id="google_translate_element"></span>
+
       </a>
 
       <button class="nav-open-btn" aria-label="open menu" data-nav-toggler>
@@ -453,7 +451,7 @@ function googleTranslateElementInit() {
 
             <div class="contact-label">Book Through Call</div>
 
-            <a href="tel:+804001234567" class="body-1 contact-number hover-underline">+50 812 12 12</a>
+            <a href="tel:+804001234567" class="body-1 contact-number hover-underline">+80 (400) 123 4567</a>
 
             <a href="#" class="btn btn-primary">
               <span class="text text-1">Read More</span>
@@ -709,46 +707,6 @@ function googleTranslateElementInit() {
 
             <span class="text text-2" aria-hidden="true">View All Menu</span>
           </a>
-  <?php //   **************************************** ?>
-    <section class="section menu" aria-label="menu-label" id="menu">
-      <div class="container">
-      <h2 class="headline-1 section-title text-center">Delicious Menu</h2>
-      <ul class="grid-list">
-  
-      <?php
-  include "ConnectingFile/Connect.php";
-  
-foreach ($row as $rows){
-//echo $rows["ProductsName"] . " - " . $rows["Price"] . "<br>";
-  ?>
-      <li>
-        <div class="menu-card hover:card">
-        
-          <figure class="card-banner img-holder" style="--width: 100; --height: 100;">
-            <img class="imgs" src="<?php echo $rows["ProductPhotos"] ;?>" width="100" height="100" loading="lazy" alt="Greek Salad"
-              class="img-cover">
-          </figure>
-
-          <div>
-
-            <div class="title-wrapper">
-              <h3 class="title-3">
-                <a href="#" class="card-title"><?php echo $rows["ProductsName"];?></a>
-              </h3>
-
-              <span class="span title-2"> <?php echo $rows["Price"] ;?>₼</span>
-            </div>
-
-        </div>
-
-      </div>
-  </li>
-
-  <?php } ?> 
-  </ul>
-  
-  </section>
-
           <div id="content"></div>
          
 
@@ -814,7 +772,7 @@ foreach ($row as $rows){
               <h2 class="headline-1 text-center">Online Reservation</h2>
 
               <p class="form-text text-center">
-                Booking request <a href="tel:+88123123456" class="link">+012 812 12 12</a>
+                Booking request <a href="tel:+88123123456" class="link">+88-123-123456</a>
                 or fill out the order form
               </p>
 
@@ -854,21 +812,21 @@ foreach ($row as $rows){
                   <ion-icon name="time-outline" aria-hidden="true"></ion-icon>
 
                   <select name="person" class="input-field">
-                    <option value="08:00am">08 : 00 </option>
-                    <option value="09:00am">09 : 00 </option>
-                    <option value="010:00am">10 : 00 </option>
-                    <option value="011:00am">11 : 00 </option>
-                    <option value="012:00am">12 : 00 </option>
-                    <option value="01:00pm">13 : 00 </option>
-                    <option value="02:00pm">14 : 00 </option>
-                    <option value="03:00pm">15 : 00 </option>
-                    <option value="04:00pm">16 : 00 </option>
-                    <option value="05:00pm">17 : 00 </option>
-                    <option value="06:00pm">18 : 00 </option>
-                    <option value="07:00pm">19 : 00 </option>
-                    <option value="08:00pm">20 : 00 </option>
-                    <option value="09:00pm">21 : 00 </option>
-                    <option value="10:00pm">22 : 00 m</option>
+                    <option value="08:00am">08 : 00 am</option>
+                    <option value="09:00am">09 : 00 am</option>
+                    <option value="010:00am">10 : 00 am</option>
+                    <option value="011:00am">11 : 00 am</option>
+                    <option value="012:00am">12 : 00 am</option>
+                    <option value="01:00pm">01 : 00 pm</option>
+                    <option value="02:00pm">02 : 00 pm</option>
+                    <option value="03:00pm">03 : 00 pm</option>
+                    <option value="04:00pm">04 : 00 pm</option>
+                    <option value="05:00pm">05 : 00 pm</option>
+                    <option value="06:00pm">06 : 00 pm</option>
+                    <option value="07:00pm">07 : 00 pm</option>
+                    <option value="08:00pm">08 : 00 pm</option>
+                    <option value="09:00pm">09 : 00 pm</option>
+                    <option value="10:00pm">10 : 00 pm</option>
                   </select>
 
                   <ion-icon name="chevron-down" aria-hidden="true"></ion-icon>
@@ -892,29 +850,29 @@ foreach ($row as $rows){
 
               <p class="contact-label">Booking Request</p>
 
-              <a href="tel:+88123123456" class="body-1 contact-number hover-underline">+50 812 12 12</a>
+              <a href="tel:+88123123456" class="body-1 contact-number hover-underline">+88-123-123456</a>
 
               <div class="separator"></div>
 
               <p class="contact-label">Location</p>
 
               <address class="body-4">
-              İcherisheher, Baku<br>
-              AZ
+                Restaurant St, Delicious City, <br>
+                London 9578, UK
               </address>
 
               <p class="contact-label">Lunch Time</p>
 
               <p class="body-4">
                 Monday to Sunday <br>
-                11:00  - 14:30
+                11.00 am - 2.30pm
               </p>
 
               <p class="contact-label">Dinner Time</p>
 
               <p class="body-4">
                 Monday to Sunday <br>
-                17:00 - 24.00
+                05.00 pm - 10.00pm
               </p>
 
             </div>
@@ -1123,12 +1081,12 @@ foreach ($row as $rows){
           </a>
 
           <address class="body-4">
-          İcherisheher, Baku, AZ
+            Restaurant St, Delicious City, London 9578, UK
           </address>
 
-          <a href="mailto:booking@grilli.com" class="body-4 contact-link">GrilliRestaurant@restaurant.az</a>
+          <a href="mailto:booking@grilli.com" class="body-4 contact-link">booking@grilli.com</a>
 
-          <a href="tel:+88123123456" class="body-4 contact-link">Booking Request : +012 812 12 12</a>
+          <a href="tel:+88123123456" class="body-4 contact-link">Booking Request : +88-123-123456</a>
 
           <p class="body-4">
             Open : 09:00 am - 01:00 pm
